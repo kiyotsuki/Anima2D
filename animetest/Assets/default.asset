@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: default
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: head
+    localPosition: {x: 0.051549345, y: -1.0830119, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.71054155, w: 0.70365536}
+    localScale: {x: 2.758913, y: 1.1050795, z: 1.1050755}
+  - path: h1/h1
+    localPosition: {x: -0.042065024, y: 2.1513135, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7155707, w: 0.69854033}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: h1/h1/h2
+    localPosition: {x: 2.2788417, y: -0.00000023841858, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.043319743, w: 0.9990613}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: h1/h1/h2/h3
+    localPosition: {x: 1.2854229, y: -0.00000008745701, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.04725926, w: -0.9988827}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: wnp1/wanp1
+    localPosition: {x: -0.0068864226, y: 1.0438886, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.70345265, w: 0.7107422}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: wnp1/wanp1/wanp2
+    localPosition: {x: 1.0000001, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 0.25051397, y: 1, z: 1}
+  - path: wnp1/wanp1/wanp2/wanp3
+    localPosition: {x: 1.0000011, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 4.20899, y: 1, z: 1}
